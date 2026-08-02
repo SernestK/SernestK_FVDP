@@ -2,7 +2,7 @@
 
 # 1. Introduction
 
-In the mini project, I built the program to search Fiction from dictionary by insert Fiction Code. The program will show Fiction Detail including View, Fiction Type, etc. You also use program to creates CSV file or JSON file by the dictionary of fiction detail. 
+In the mini project, I built the program to search Fiction from dictionary by insert Fiction Code with many topics in If-else, While Loop, Dictionary and File Handling. The program will show Fiction Detail including View, Fiction Type, etc. You also use program to creates CSV file or JSON file by the dictionary of fiction detail. 
 
 # 2. How program work?
 
