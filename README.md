@@ -6,7 +6,12 @@ In the mini project, I built the program to search Fiction from dictionary by in
 
 # 2. How program work?
 
-In the program, you found the menu has 5 options. The first Option is "If you want JSON File,select 1.". The second Option is "If you want CSV File,select 2.". The third Option is "Do not want any file,select 3.". The fourth Option is "You want to see fiction data,select 4.". The fifth Option is "You want to stop the program,select 5.".
+In the program, you found the menu has 5 options. 
+- The first Option is "If you want JSON File,select 1.". 
+- The second Option is "If you want CSV File,select 2.". 
+- The third Option is "Do not want any file,select 3.". 
+- The fourth Option is "You want to see fiction data,select 4.". 
+- The fifth Option is "You want to stop the program,select 5.".
 
 # 3. Result
 
