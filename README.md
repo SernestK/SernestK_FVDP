@@ -11,7 +11,7 @@ In the program, you found the menu has 5 options.
   - You will get the csv file IF you select the first option.
 - The second Option is "If you want CSV File,select 2.".
   - You will get the JSON file IF you select the second option.
-- The third Option is "Do not want any file,select 3.". 
+- The third Option is "Want to see the program detail,select 3.". 
 - The fourth Option is "You want to see fiction data,select 4.". 
 - The fifth Option is "You want to stop the program,select 5.".
 
